@@ -1,4 +1,4 @@
-package com.example.uberapp
+package com.example.uberapp.Model
 class DriverInfoModel {
     var firstName:String=""
     var lastName:String=""
