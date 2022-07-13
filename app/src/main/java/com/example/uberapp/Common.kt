@@ -1,5 +1,6 @@
 package com.example.uberapp
 
+import com.example.uberapp.Model.DriverInfoModel
 import java.lang.StringBuilder
 
 object Common {
